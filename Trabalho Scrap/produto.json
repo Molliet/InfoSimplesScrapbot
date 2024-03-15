@@ -1,0 +1,82 @@
+{
+    "title": "Rubber Duck MK Ultra",
+    "categories": [
+        "Commercia",
+        "Health & Care ",
+        "Bath ",
+        "Rubber Ducks"
+    ],
+    "description": "\nDescription\n Apresentando os Patos de Borracha Quanticos, a ultima palavra em diversao aquatica! Criados pelo excentrico Dr. Quacksalot, esses patinhos de borracha vao alem do comum, com habilidades de fala, danca e personalidades unicas. Com sua durabilidade de alta qualidade, esses patos sao garantia de diversao interminavel na banheira. Escolha entre uma variedade de cores e estilos e mergulhe na loucura cientifica do Dr. Quacksalot hoje mesmo! \n Cada Patinho de Borracha Quantico vem equipado com um sistema de comunicacao interdimensional, permitindo que eles conversem nao apenas entre si, mas tambem com outros objetos inanimados no banheiro - prepare-se para dialogos improvaveis entre seu pato de borracha e o sabonete! Alem disso, esses patos tem uma habilidade secreta de transformacao: basta apertar sua barriguinha e assistir enquanto se transformam em mini submarinos de borracha, prontos para explorar os confins da banheira em busca de aventuras subaquaticas surreais. Com os Patos de Borracha Quanticos, o limite da diversao e apenas sua imaginacao (e talvez a sanidade do Dr. Quacksalot)! \n",
+    "skus": [
+        {
+            "name": " Rubber Duck MK Ultra - Original ",
+            "current_price": " R$ 12,68 ",
+            "old_price": " R$ 16,98 ",
+            "avaiable": true
+        },
+        {
+            "name": " Rubber Duck MK Ultra - Summer Version ",
+            "current_price": null,
+            "old_price": null,
+            "avaiable": false
+        },
+        {
+            "name": " Rubber Duck MK Ultra - Batman Version ",
+            "current_price": " R$ 18,98 ",
+            "old_price": null,
+            "avaiable": true
+        }
+    ],
+    "properties": [
+        {
+            "label": "Color",
+            "value": "Various"
+        },
+        {
+            "label": "Material",
+            "value": "Rubber"
+        },
+        {
+            "label": "Shape",
+            "value": "Ducky"
+        },
+        {
+            "label": "Size",
+            "value": "Medium"
+        },
+        {
+            "label": "Weight",
+            "value": "394 g"
+        },
+        {
+            "label": "Radioactivity Level",
+            "value": "Low"
+        },
+        {
+            "label": "Warranty",
+            "value": "1 year"
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Louisa Eliel",
+            "date": "28/07/2021",
+            "score": 4,
+            "text": "Very good rubber ducks, however I think they are a bit too big for me."
+        },
+        {
+            "name": "Kairo Josue",
+            "date": "12/05/2021",
+            "score": 1,
+            "text": "Pessima qualidade. Ja nao fazem patos de borracha como antigamente."
+        },
+        {
+            "name": "Victor Huey",
+            "date": "03/04/2021",
+            "score": 5,
+            "text": "Very good"
+        }
+    ],
+    "reviews_average_score": 3.33,
+    "url": "https://infosimples.com/vagas/desafio/commercia/product.html"
+}
